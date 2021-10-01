@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 4. Install dependencies with `npm install`
 5. Run `npm start`
 
-### How can I add my profile?
+## How can I add my profile?
 
 Navigate to the directory `src/data.json` with the following content:
 
