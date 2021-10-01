@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/411568ee-cee9-4f22-b1f1-b6f119931d6c/deploy-status)](https://reactfirstcontrib.netlify.app/)
 
 ## Quickstart
 
@@ -23,3 +21,6 @@ Navigate to the directory `src/data.json` with the following content:
   }
 ```
 
+### Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
