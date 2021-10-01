@@ -18,9 +18,15 @@
 		"Github": "https://github.com/suubh"
 	},
 	{
-		"id": 3,
+		"id": 4,
 		"image": "https://github.com/daptheHuman.png",
 		"title": "Dafa",
 		"Github": "https://github.com/daptheHuman"
+	},
+	{
+		"id": 3,
+		"image": "https://github.com/Gaston82.png",
+		"title": "Gastón Artaza Yañez",
+		"Github": "https://github.com/Gaston82"
 	}
 ]
