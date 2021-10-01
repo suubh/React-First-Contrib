@@ -1,20 +1,26 @@
 [
-    {
-        "id": 1,
-        "image":"https://github.com/suubh.png",
-        "title": "Shubham Singh",
-        "Github": "https://github.com/suubh"
-    },
-    {
-        "id": 2,
-        "image":"https://github.com/suubh.png",
-        "title": "Shubham Singh",
-        "Github": "https://github.com/suubh"
-    },
-    {
-        "id": 2,
-        "image":"https://github.com/suubh.png",
-        "title": "Shubham Singh",
-        "Github": "https://github.com/suubh"
-    }
+	{
+		"id": 1,
+		"image": "https://github.com/suubh.png",
+		"title": "Shubham Singh",
+		"Github": "https://github.com/suubh"
+	},
+	{
+		"id": 2,
+		"image": "https://github.com/suubh.png",
+		"title": "Shubham Singh",
+		"Github": "https://github.com/suubh"
+	},
+	{
+		"id": 2,
+		"image": "https://github.com/suubh.png",
+		"title": "Shubham Singh",
+		"Github": "https://github.com/suubh"
+	},
+	{
+		"id": 3,
+		"image": "https://github.com/daptheHuman.png",
+		"title": "Dafa",
+		"Github": "https://github.com/daptheHuman"
+	}
 ]
