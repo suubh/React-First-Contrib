@@ -8,9 +8,9 @@
 4. Install dependencies with `npm install`
 5. Run `npm start`
 
- </p> 
-<p align="center">Show some ❤️ by starring the repo !
-</p>
+ 
+#### Show some ❤️ by starring the repo !
+
 
 
 ## How can I add my profile?
