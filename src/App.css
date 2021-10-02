@@ -37,6 +37,13 @@
     transform: rotate(360deg);
   }
 }
+.posts-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  padding: 2rem;
+  flex-wrap: wrap;
+}
 .posts{
   text-align: center;
   align-items: center; 
@@ -62,6 +69,16 @@ button {
   color: white;
   font-size: 15px;
 }
+/* reset default button css  */
+.btn-reset {
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  outline: none;
+  color: #282c34;
+}
+
 
 button:hover {
   transform: scale(1.02);

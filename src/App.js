@@ -4,13 +4,13 @@ import Data from "./data.json"
 function App() {
   return (
     <div className="App">
-      <div className="posts">
+      <div className="posts-wrapper">
         { Data.map(post => {
           return (
             <div key={post.id} className="post">
               <img src={post.image} alt={post.title} />
               <h2>{post.title}</h2>
-              <a href={post.Github}><button>Visit Profile</button> </a>
+              <a href={post.Github}><button className="btn-reset">Visit Profile</button> </a>
             </div>
           )
         })}
