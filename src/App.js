@@ -4,7 +4,7 @@ import Data from "./data.json"
 function App() {
   return (
     <div className="App">
-      <div className="posts">
+      <div className="posts-wrapper">
         { Data.map(post => {
           return (
             <div key={post.id} className="post">

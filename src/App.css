@@ -37,6 +37,13 @@
     transform: rotate(360deg);
   }
 }
+.posts-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 2rem;
+  flex-wrap: wrap;
+}
 .posts{
   text-align: center;
   align-items: center; 
