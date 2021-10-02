@@ -22,5 +22,11 @@
 		"image": "https://github.com/GeraAlcantara.png",
 		"title": "Gerardo Alcántara",
 		"Github": "https://github.com/GeraAlcantara"
+	},
+	{
+		"id": 5,
+		"image": "https://github.com/ManishBB.png",
+		"title": "Manish Bhamare",
+		"Github": "https://github.com/ManishBB"
 	}
 ]
