@@ -27,4 +27,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-Show some ❤️ by starring the repo ! 
+ </p> 
+<p align="center">Show some ❤️ by starring the repo !
+</p>
