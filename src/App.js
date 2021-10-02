@@ -1,4 +1,5 @@
 import './App.css'
+import Card from './components/card/card'
 import Data from "./data.json"
 
 function App() {
@@ -7,11 +8,7 @@ function App() {
       <div className="posts-wrapper">
         { Data.map(post => {
           return (
-            <div key={post.id} className="post">
-              <img src={post.image} alt={post.title} />
-              <h2>{post.title}</h2>
-              <a href={post.Github}><button className="btn-reset">Visit Profile</button> </a>
-            </div>
+            <Card key={post.id} image={post.image} title={post.title} githubLink={post.Github}/>
           )
         })}
       </div>
