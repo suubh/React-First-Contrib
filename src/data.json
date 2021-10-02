@@ -7,18 +7,6 @@
 	},
 	{
 		"id": 2,
-		"image": "https://github.com/suubh.png",
-		"title": "Shubham Singh",
-		"Github": "https://github.com/suubh"
-	},
-	{
-		"id": 2,
-		"image": "https://github.com/suubh.png",
-		"title": "Shubham Singh",
-		"Github": "https://github.com/suubh"
-	},
-	{
-		"id": 4,
 		"image": "https://github.com/daptheHuman.png",
 		"title": "Dafa",
 		"Github": "https://github.com/daptheHuman"
@@ -28,5 +16,11 @@
 		"image": "https://github.com/Gaston82.png",
 		"title": "Gastón Artaza Yañez",
 		"Github": "https://github.com/Gaston82"
+	},
+	{
+		"id": 4,
+		"image": "https://github.com/GeraAlcantara.png",
+		"title": "Gerardo Alcántara",
+		"Github": "https://github.com/GeraAlcantara"
 	}
 ]
