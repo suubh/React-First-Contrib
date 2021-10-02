@@ -24,3 +24,7 @@ Navigate to the directory `src/data.json` with the following content:
 ### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+Show some ❤️ by starring the repo ! 
