@@ -10,7 +10,7 @@ function App() {
             <div key={post.id} className="post">
               <img src={post.image} alt={post.title} />
               <h2>{post.title}</h2>
-              <a href={post.Github}><button>Visit Profile</button> </a>
+              <a href={post.Github}><button className="btn-reset">Visit Profile</button> </a>
             </div>
           )
         })}
