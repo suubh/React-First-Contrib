@@ -1,5 +1,13 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/411568ee-cee9-4f22-b1f1-b6f119931d6c/deploy-status)](https://reactfirstcontrib.netlify.app/)
 
+
+> A note for Hacktoberfest Participants:
+>
+> Not just only add you data and stop, Try to dive into [React](https://reactjs.org/docs/getting-started.html) and raise issue with an idea or enhancement of the project.
+> 
+> Pull requests which improve the codebase, documentation, or other aspects of the project and are in line with the core values
+> of the event will be good to go.
+
 ## Quickstart
 
 1. Fork the project
