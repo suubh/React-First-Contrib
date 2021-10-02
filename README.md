@@ -8,6 +8,11 @@
 4. Install dependencies with `npm install`
 5. Run `npm start`
 
+ </p> 
+<p align="center">Show some ❤️ by starring the repo !
+</p>
+
+
 ## How can I add my profile?
 
 Navigate to the directory `src/data.json` with the following content:
@@ -21,12 +26,9 @@ Navigate to the directory `src/data.json` with the following content:
   }
 ```
 
-### Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 
- </p> 
-<p align="center">Show some ❤️ by starring the repo !
-</p>
