@@ -1,54 +1,53 @@
 .post {
-    width: 300px;
-    height: 310px;
-   
-    margin: 10px;
-    border-radius: 15px;
-background: white;
-box-shadow:  5px 5px 10px #242222,
-             -5px -5px 10px #242222;
-             position: relative;
+  width: 300px;
+  height: 310px;
+
+  margin: 10px;
+  border-radius: 15px;
+  background: white;
+  box-shadow: 5px 5px 10px #242222, -5px -5px 10px #242222;
+  position: relative;
 }
 
-
-
 img {
-    border-radius: 50%;
-    width: 50%;
-    height: 50%;
-    padding-top: 10px;
+  border-radius: 50%;
+  width: 50%;
+  height: 50%;
+  padding-top: 10px;
 }
 
 /* reset default button css  */
 .btn-reset {
-    border: none;
-    padding: 0.5rem 1rem;
-    font-size: 1rem;
-    cursor: pointer;
-    outline: none;
-    color: #282c34;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  outline: none;
+  color: #282c34;
 }
 
+.icons {
+  height: 3rem;
+  width: 3rem;
+  color: black;
+  border-radius: 50%;
 
-.icons{
-    height: 3rem;
-    width: 3rem;
-    color: black;
-    border-radius: 50%;
+  box-shadow: 5px 5px 10px #bebebe, -5px -5px 10px #ffffff;
+}
 
-box-shadow:  5px 5px 10px #bebebe,
-             -5px -5px 10px #ffffff;
+.image-div {
+  border-radius: 20px 20px 0 0;
+
+  background-image: linear-gradient(
+    to bottom,
+    #e79ed6 0%,
+    #e79ed6 1%,
+    #e6dee9 100%
+  );
 }
-.image-div{
-    border-radius:20px 20px 0 0;
-   
-    background-image: linear-gradient(to bottom, #e79ed6 0%, #e79ed6 1%, #e6dee9 100%);
-}
-.title{
-    font-family: 'Times New Roman', Times, serif;
-    
+.title {
+  font-family: "Times New Roman", Times, serif;
 }
 .icons:hover {
-    transform: scale(1.02);
+  transform: scale(1.02);
 }
-
