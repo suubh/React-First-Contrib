@@ -9,10 +9,17 @@ function App() {
     <div className="App">
       <Header />
       <div className="posts-wrapper">
-        {Data.map(post => {
+        {Data.map((post) => {
           return (
-            <Card key={post.id} image={post.image} title={post.title} githubLink={post.Github} />
-          )
+            <Card
+              key={post.id}
+              image={post.image}
+              title={post.title}
+              githubLink={post.Github}
+              linkedinLink={post.LinkedinLink}
+              twitterLink={post.TwitterLink}
+            />
+          );
         })}
       </div>
       <Footer />

@@ -3,60 +3,80 @@
     "id": 1,
     "image": "https://github.com/suubh.png",
     "title": "Shubham Singh",
-    "Github": "https://github.com/suubh"
+    "Github": "https://github.com/suubh",
+    "LinkedinLink":"",
+    "TwitterLink":""
   },
   {
     "id": 2,
     "image": "https://github.com/daptheHuman.png",
     "title": "Dafa",
-    "Github": "https://github.com/daptheHuman"
+    "Github": "https://github.com/daptheHuman",
+    "LinkedinLink":"",
+    "TwitterLink":""
   },
   {
     "id": 3,
     "image": "https://github.com/Gaston82.png",
     "title": "Gastón Artaza Yañez",
-    "Github": "https://github.com/Gaston82"
+    "Github": "https://github.com/Gaston82",
+    "LinkedinLink":"",
+    "TwitterLink":""
   },
   {
     "id": 4,
     "image": "https://github.com/GeraAlcantara.png",
     "title": "Gerardo Alcántara",
-    "Github": "https://github.com/GeraAlcantara"
+    "Github": "https://github.com/GeraAlcantara",
+    "LinkedinLink":"",
+    "TwitterLink":""
   },
   {
     "id": 5,
     "image": "https://github.com/ManishBB.png",
     "title": "Manish Bhamare",
-    "Github": "https://github.com/ManishBB"
+    "Github": "https://github.com/ManishBB",
+    "LinkedinLink":"",
+    "TwitterLink":""
   },
   {
     "id": 6,
     "image": "https://github.com/vae97.png",
     "title": "Akash Ekanayaka",
-    "Github": "https://github.com/vae97"
+    "Github": "https://github.com/vae97",
+    "LinkedinLink":"",
+    "TwitterLink":""
   },
   {
     "id": 7,
     "image": "https://github.com/subhamdas461.png",
     "title": "Subham Das",
-    "Github": "https://github.com/subhamdas461"
+    "Github": "https://github.com/subhamdas461",
+    "LinkedinLink":"",
+    "TwitterLink":""
   },
   {
     "id": 8,
     "image": "https://github.com/johnisaig.png",
     "title": "Isaig John Michael",
-    "Github": "https://github.com/Johnisaig"
+    "Github": "https://github.com/Johnisaig",
+    "LinkedinLink":"",
+    "TwitterLink":""
   },
   {
     "id": 9,
     "image": "https://github.com/manjay007.png",
     "title": "Manjay Poddar",
-    "Github": "https://github.com/manjay007"
+    "Github": "https://github.com/manjay007",
+    "LinkedinLink":"",
+    "TwitterLink":""
   },
   {
     "id": 10,
     "image": "https://soundaryakhanapur.github.io/Portfolio/static/media/home_anime.b75630b7.jpg",
     "title": "Soundarya",
-    "Github": "https://github.com/SoundaryaKhanapur"
+    "Github": "https://github.com/SoundaryaKhanapur",
+    "LinkedinLink":"",
+    "TwitterLink":""
   }
 ]

@@ -1,35 +1,57 @@
 .post {
-    width: 300px;
-    height: 300px;
-    background-color: white;
-    border-radius: 10px;
-    box-shadow: 0px 1px 10px 1px black;
-    margin: 10px;
+  width: 300px;
+  height: 310px;
+
+  margin: 10px;
+  border-radius: 15px;
+  background: white;
+  box-shadow: 5px 5px 10px #242222, -5px -5px 10px #242222;
+  position: relative;
 }
 
 img {
-    border-radius: 50%;
-    width: 50%;
-    height: 50%;
-    padding-top: 10px;
-}
-button {
-    transition: transform 0.33s !important;
-    background-color: #61dafb;
-    border-radius: 10px;
-    color: white;
-    font-size: 15px;
-}
-/* reset default button css  */
-.btn-reset {
-    border: none;
-    padding: 0.5rem 1rem;
-    font-size: 1rem;
-    cursor: pointer;
-    outline: none;
-    color: #282c34;
+  border-radius: 50%;
+  width: 50%;
+  height: 50%;
+  padding-top: 10px;
 }
 
-button:hover {
-    transform: scale(1.02);
+/* reset default button css  */
+.btn-reset {
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  outline: none;
+  color: #282c34;
+}
+
+.icons {
+  height: 2rem;
+  width: 2rem;
+  color: black;
+  border-radius: 50%;
+
+  box-shadow: 5px 5px 10px #bebebe, -5px -5px 10px #ffffff;
+}
+
+a {
+  padding: 0 5px;
+}
+
+.image-div {
+  border-radius: 20px 20px 0 0;
+
+  background-image: linear-gradient(
+    to bottom,
+    #e79ed6 0%,
+    #e79ed6 1%,
+    #e6dee9 100%
+  );
+}
+.title {
+  font-family: "Times New Roman", Times, serif;
+}
+.icons:hover {
+  transform: scale(1.02);
 }
