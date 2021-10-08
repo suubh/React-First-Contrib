@@ -38,5 +38,9 @@ Navigate to the directory `src/data.json` with the following content:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Contributors
 
+<a href="https://github.com/suubh/React-First-Contrib/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=suubh/React-First-Contrib" />
+</a>
 
